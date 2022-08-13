@@ -1,6 +1,6 @@
 <?php
 
-$to = 'mailto:dwivedysaisuman@gmail.com';
+$to = 'mailto:';
 
 function url(){
   return sprintf(
